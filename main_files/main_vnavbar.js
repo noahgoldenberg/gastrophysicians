@@ -30,8 +30,6 @@ submenuItem("Capsule Enteroscopy Instructions ",loc+"../"+"forms/Capsule-endosco
 submenuItem("---","javascript:;","","main_vnavbar_plain");
 submenuItem("Half Lytely Instructions ",loc+"../"+"forms/HalfLytely.pdf","_blank","main_vnavbar_plain");
 submenuItem("---","javascript:;","","main_vnavbar_plain");
-submenuItem("Visicol Instructions ",loc+"../"+"forms/visicol.pdf","_blank","main_vnavbar_plain");
-submenuItem("---","javascript:;","","main_vnavbar_plain");
 submenuItem("Suprep Instructions ",loc+"../"+"forms/suprep.pdf","_blank","main_vnavbar_plain");
 submenuItem("---","javascript:;","","main_vnavbar_plain");
 submenuItem("Miralax Prep Instructions ",loc+"../"+"forms/miralax.pdf","_blank","main_vnavbar_plain");
