@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.google.com/schemas/sitemap/0.84"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.google.com/schemas/sitemap/0.84
+http://www.google.com/schemas/sitemap/0.84/sitemap.xsd">
+  <url>
+    <loc>http://www.gastrophysicians.com/</loc>
+    <lastmod>2007-02-09T21:00:55-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.gastrophysicians.com/index.html</loc>
+    <lastmod>2007-02-09T21:02:03-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.gastrophysicians.com/cohen.html</loc>
+    <lastmod>2007-02-09T21:02:02-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.gastrophysicians.com/goldenberg.html</loc>
+    <lastmod>2007-02-09T21:02:02-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.gastrophysicians.com/office.html</loc>
+    <lastmod>2007-02-09T21:02:02-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.gastrophysicians.com/link.html</loc>
+    <lastmod>2007-02-09T21:02:02-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.gastrophysicians.com/forms.html</loc>
+    <lastmod>2007-02-09T21:02:02-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

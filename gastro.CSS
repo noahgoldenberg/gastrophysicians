@@ -1,0 +1,205 @@
+body {
+	color: #000000;/*themecolour4%0;*/
+	background-image: url(main_files/main_bg_lines.gif);
+	background-repeat: repeat	
+}
+table {
+	font: 9pt  arial, sans-serif;
+	color: #000000;/*themecolour4%0;*/
+	
+}
+p {
+	font: 12pt  serif, sans-serif;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	text-align: left;
+}
+
+.disclaimer {
+	color:white;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 25px;
+	margin-right: 25px;
+}
+blockquote {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 20px;
+	color: #000000;/*themecolour4%0;*/
+}
+ol {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 25px;
+	color: #000000;/*themecolour4%0;*/
+}
+ul {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 25px;
+	color: #000000;/*themecolour4%0;*/
+	list-style-image: url(main_files/main_bullet.gif);
+}
+
+}
+.rightcoltext {
+    color: #000000;/*themecolour4%0;*/
+	border-top-width: 0px;
+	border-right-width: 3px;
+	border-bottom-width: 3px;
+	border-left-width: 0px;
+	border-bottom-style: solid;
+	border-bottom-color: #dba043;/*themecolour2;*/
+	border-right-style: solid;
+	border-right-color: #dba043;/*themecolour2;*/
+	padding-right: 20px;
+	padding-left: 20px;
+	background-color: #ffffff;/*themecolour4;*/
+	background-image:  url(main_files/main_topbar.gif);
+	background-repeat: repeat-x;
+}
+
+.footer {
+	color: #ffffff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	background-color: #2a8eee;/*themecolour1;*/
+}
+
+}
+a:link {
+	color: #0000ff;/*themecolour1;*/
+	
+}
+a:visited {
+	color: 0000cc;/*themecolour1;*/
+	
+}
+a:link:hover {
+	color: #ff0000;/*themecolour2;*/
+	
+}
+
+
+h1 {
+	font-size: 18px;
+	font-style: normal;
+	font-weight: bold;
+	color: #2a8eee;/*themecolour4%0;*/
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+h2 {
+	font-size: 15px;
+	font-style: normal;
+	font-weight: bold;
+	color: #2a8eee;/*themecolour1;*/
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+h3 {
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+	color: #2a8eee;/*themecolour1;*/
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.headingborder {
+	border-top-width: 1px;
+	border-right-width: 0px;
+	border-bottom-width: 1px;
+	border-left-width: 2px;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+	border-left-color: #FFFFFF;
+}
+.leftcolumnbg {
+	background-color: #333333;/*themecolour3;*/
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-bottom-style: solid;
+	border-bottom-color: #dba043;/*themecolour2;*/
+	border-top-style: solid;
+	border-top-color: #dba043;/*themecolour2;*/
+}
+.leftcolumnggg {
+	background-color: #999999;/*themecolour3;*/
+	border-top-width: 0px;
+	border-right-width: 3px;
+	border-bottom-width: 3px;
+	border-left-width: 0px;
+	border-bottom-style: solid;
+	border-bottom-color: #dba043;/*themecolour2;*/
+	border-top-style: solid;
+	border-top-color: #dba043;/*themecolour2;*/
+	border-left-style: solid;
+	border-left-color: #dba043;/*themecolour2;*/
+	border-right-style: solid;
+	border-right-color: #dba043;/*themecolour2;*/
+	
+}
+.topstrip {
+	background-color: #333333;
+	background-image: url(main_files/main_topstrip.gif);
+	background-repeat: repeat-x;
+}
+.leftcolumntext {
+	color: #ffffff;/*themecolour3%0;*/
+}
+
+
+.outerborder {
+	border: 1px solid #000000;
+}
+.bgcolor {
+	background-color: #ffffff;/*themecolour4;*/
+}
+.divider {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #dba043;/*themecolour2;*/
+}
+.divider2 {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #2a8eee;/*themecolour1;*/
+}
+
+
+
+.disclaimer {font-size: 10pt;
+			text-align: Justify;
+			color: #990000;
+}
+
+.imgborder
+		{
+		border-width:medium; 
+		padding: 10px; 
+		border-style:double;
+		border-color:"#dba043";
+}
+
+.tablestyle
+		{
+		border-width:medium; 
+		padding:2 pt; 
+		border-style:double;
+		border-color:"#339999";
+		}
