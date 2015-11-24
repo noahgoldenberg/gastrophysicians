@@ -26,6 +26,8 @@ startSubmenu("main_vnavbar_b5","main_vnavbar_menu",204);
 submenuItem("Patient Information Form",loc+"../"+"forms/Patient Info Sheet.pdf","_blank","main_vnavbar_plain");
 submenuItem("Medical Information Form",loc+"../"+"forms/Patient History Form.pdf","_blank","main_vnavbar_plain");
 submenuItem("---","javascript:;","","main_vnavbar_plain");
+submenuItem("Prepopik Instructions ",loc+"../"+"forms/Prepopik Instructions.pdf","_blank","main_vnavbar_plain");
+submenuItem("---","javascript:;","","main_vnavbar_plain");
 submenuItem("Capsule Enteroscopy Instructions ",loc+"../"+"forms/Capsule-endoscopy.pdf","_blank","main_vnavbar_plain");
 submenuItem("---","javascript:;","","main_vnavbar_plain");
 submenuItem("Half Lytely Instructions ",loc+"../"+"forms/HalfLytely.pdf","_blank","main_vnavbar_plain");
